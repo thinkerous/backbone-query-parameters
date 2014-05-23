@@ -5,7 +5,7 @@
   "description": "Backbone plugin which provides query parameter support for Backbone.Router",
   "main": "backbone.queryparams.js",
   "dependencies": {
-    "jashkenas/backbone": "*",
+    "jashkenas/backbone": "1.1.2",
     "components/underscore": "*"
   },
   "homepage": "https://github.com/jhudson8/backbone-query-parameters",
